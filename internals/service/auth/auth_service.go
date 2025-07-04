@@ -1,5 +1,4 @@
-// /internals/service/auth_service.go
-package service
+package auth_service
 
 import (
 	"errors"
